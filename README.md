@@ -5,15 +5,15 @@ Checkout the [Wiki](https://github.com/joshuadavidson/West-Houston-FCC-Meetup/wi
 
 ### :page_facing_up: Meeting Details
 Anyone and everyone is welcome to join!
-* When: 6:30pm - 9:00pm, every other Monday check the [Meetup Schedule](https://www.meetup.com/freecodecampHouston-Midtown/events/)
+* When: 7:00pm - 9:00pm, every other Monday check the [Meetup Schedule](https://www.meetup.com/freecodecampHouston-Midtown/events/)
 * Where: BridgePoint Bible Church ([map](https://goo.gl/maps/xAriHwxoiN12)) room A204
 
 ### :clock630: Meeting Schedule
 
 | Time  | Activity |
 |---|---|
-|6:30 - 7:00pm ish | Focus Session (presentations, guest speakers, tips/tricks)|
-|7:00 - 9:00pm     | Open Code (ask questions, network, collaborate)|
+|7:00 - 7:45pm ish | Focus Session (presentations, guest speakers, tips/tricks)|
+|7:45 - 9:00pm     | Open Code (ask questions, network, collaborate)|
 
 
 ### :+1: Want to add content to this repo or the wiki?
